@@ -1,4 +1,6 @@
+package U2T7_P1_StringMethods;
 import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
